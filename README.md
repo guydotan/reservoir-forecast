@@ -13,3 +13,4 @@ However, this data is not meant for public record and therefore the dataset coul
 * [Forecasting Reservoir Storage Report](https://github.com/guy-dotan/ucla-mas415-final/blob/master/Forecasting%20Reservoir%20Storage%20Report.pdf) - Summary of report methodology and results
 * [Forecasting Reservoir Storage Presentation](https://github.com/guy-dotan/ucla-mas415-final/blob/master/Forecasting%20Reservoir%20Storage%20Presentation.pdf) - Brief presentation summary of report findings 
 * R Code folder - data cleaning and modeling techniques
+* Plots folder - graphical representations of the dataset and forecast models
